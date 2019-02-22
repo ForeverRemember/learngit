@@ -4,6 +4,4 @@ add information
 
 
 123
-发生的
-
-发生的123
+Creating a new branch is quick.
