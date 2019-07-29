@@ -6,5 +6,9 @@ FilePath=https://github.com/ForeverRemember/NUC972-freeRTOS-LWIP/archive/master.
 ReleaseTime=2014-04-09
 FileSize=400.4MB
 
-OTA.CurrentVersion=Hi3716V200ES-eng 4.2.2 JDQ39eng.wangyang.20140518.203322test-keys
-
+OTA.CurrentVersion=Hi3716V200ES-eng 4.2.2 JDQ39eng.wangyang.20140305.203322test-keys
+OTA.TargetVersion=Hi3716V200ES-eng 4.2.2 JDQ39eng.wangyang.20140518.203322test-keys
+OTA.Description=升级到x版本
+OTA.FilePath=https://github.com/ForeverRemember/NUC972-freeRTOS-LWIP/archive/master.zip
+OTA.ReleaseTime=2013-09-11
+OTA.FileSize=321.2MB
