@@ -1,5 +1,5 @@
 MinVersion=8.0.1-20190618-110318
-MaxVersion=8.0.1-20190729-110318
+MaxVersion=8.0.1-20190729-111508
 TargetVersion=8.0.1-20190730-110318
 Description=升级到x版本
 FilePath=https://github.com/ForeverRemember/3561OTA/archive/master.zip
